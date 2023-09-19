@@ -1,0 +1,5 @@
+numpy
+pandas
+seaborn
+# automatically run in setup
+-e .
